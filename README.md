@@ -94,9 +94,9 @@ Description of your third project highlighting specific achievements.
 
 ## 💪 Current Learning Journey
 
-**🎯 Mastering:** React.js, Node.js
-**📚 Learning:** TypeScript, Docker, AWS  
-**🚀 Next:** GraphQL, Microservices Architecture
+- **🎯 Mastering:** React.js, Node.js
+- **📚 Learning:** TypeScript, Docker, AWS  
+- **🚀 Next:** GraphQL, Microservices Architecture
 
 ---
 
