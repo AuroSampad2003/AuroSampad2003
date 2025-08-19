@@ -18,23 +18,52 @@
 ---
 
 ## 🛠️ Tech Stack  
-**Frontend:** React.js, Vite, Tailwind CSS, Bootstrap, HTML5, CSS3, JavaScript (ES6+)  
-**Backend:** Java, Spring Boot, Node.js (learning), Express.js  
-**Database:** MySQL, MongoDB (beginner)  
-**Tools & Others:** Git, GitHub, VS Code, Gradle, Postman  
 
----
+**Frontend:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
 
-## 📂 Featured Projects  
-- 📝 [Note App](https://github.com/AuroSampad2003/Note-App) – A simple and efficient note-taking app  
-- 👥 [User Management System](https://github.com/AuroSampad2003/User-Management-System) – Manage users with registration, login, and profile features  
-- 🌐 [Portfolio Website](https://github.com/AuroSampad2003/Portfolio) – My personal portfolio showcasing projects and skills  
+**Backend:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+
+**Database:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+
+**Tools & Platforms:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40"/>
+
+**Tools & Others:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="40" height="40"/>
 
 ---
 
 ## 📊 GitHub Stats  
-![Auro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AuroSampad2003&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AuroSampad2003&layout=compact&theme=radical)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=AuroSampad2003&label=Profile%20Views&color=blue&style=flat)
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=AuroSampad2003&show_icons=true&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuroSampad2003&layout=compact&theme=radical" height="180em"/>
+
+</div>
+
 
 ---
 
