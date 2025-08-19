@@ -11,7 +11,7 @@
 - 📫 Reach me at:  
   - 📧 **Email**: [aurosampadchampatiray573@gmail.com](mailto:aurosampadchampatiray573@gmail.com)  
   - 🔗 **LinkedIn**: [linkedin.com/in/aurosampad-champatiray](https://www.linkedin.com/in/aurosampad-champatiray/)  
-  - 🌐 **Portfolio**: [Portfolio Website](https://github.com/AuroSampad2003/Portfolio)  
+  - 🌐 **Portfolio**: [Portfolio Website](https://portfolio-auro.vercel.app/)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I once spent an entire weekend debugging a single line of code… and it was worth it!  
 
@@ -65,7 +65,6 @@
 
 </div>
 
-
 ---
 
-✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
+✨ *Check out my repositories to see projects I’ve built with Java, React, and modern web technologies.*  
